@@ -112,7 +112,7 @@ flutter:
     - assets/brandim/mamaearth.png
     - assets/
     - assets/logo/hamburger.png
-    - .env
+#    - .env
     - assets/images/aboutus.png
     - assets/json/
     - assets/logo/flag1.svg
